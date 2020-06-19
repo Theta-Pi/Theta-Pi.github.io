@@ -1,5 +1,4 @@
 theme: jekyll-theme-leap-day
 title: Welcome to ΘΠ page
 description: Just an ideas-board
-github:
-  is_project_page: false
+show_downloads: false
