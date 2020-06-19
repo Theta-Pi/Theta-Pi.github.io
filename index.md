@@ -1,4 +1,18 @@
-## Welcome to GitHub Pages
+## Reinforcement Learning
+
+### Github repos
+
+-[Balancing an inverted pendulum with DQN](https://github.com/yotamish/Balancing-an-inverted-pendulum-with-DQN)
+-[Deep Q Learning in OpenAI Gym, ML-Based Inverted Pendulum-Control](https://github.com/WilliamJacobs0/ML-Based-Inverted-Pendulum-Control)
+-[Vanilla Deep Q Networks](https://towardsdatascience.com/dqn-part-1-vanilla-deep-q-networks-6eb4a00febfb)
+
+### Interesting
+-[]()
+
+## Evolutionary Algorithms
+
+-[Neural networks learning how to balance an inverted pendulum using evolutionary algorithms](https://github.com/e-dorigatti/inverted-pendulum)
+
 
 You can use the [editor on GitHub](https://github.com/Theta-Pi/Theta-Pi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
