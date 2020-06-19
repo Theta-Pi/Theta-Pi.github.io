@@ -15,3 +15,6 @@ Interesting
 ## Evolutionary Algorithms
 
 -[Neural networks learning how to balance an inverted pendulum using evolutionary algorithms](https://github.com/e-dorigatti/inverted-pendulum)
+
+## Control Theory
+-[Control tutorials for Matlab and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=SystemModeling)
