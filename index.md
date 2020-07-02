@@ -18,3 +18,7 @@ Interesting
 
 ## Control Theory
 -[Control tutorials for Matlab and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=SystemModeling)
+
+
+## UX/UI design
+-[Cognitive Biases & Principles That Affects UX](https://growth.design/psychology/)
